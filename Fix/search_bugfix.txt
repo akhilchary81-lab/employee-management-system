@@ -1,0 +1,8 @@
+Search Bug Fix
+
+Problem:
+Empty search input was not handled correctly.
+
+Fix:
+Validate search input before performing the search.
+Display a message when the search input is empty.
