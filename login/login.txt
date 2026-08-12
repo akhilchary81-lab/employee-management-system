@@ -1,0 +1,6 @@
+Employee Management System - Login
+
+Username validation
+Password validation
+Employee authentication
+Logout functionality
